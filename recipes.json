@@ -1,0 +1,36 @@
+{
+  "recipes": [
+    {
+      "title": "Chocolate chip cookies made with spelled flour",
+      "description": "מתכון מנצח לעוגיות שוקולד צ&#039;יפס בריאות יותר, עם טיפ להכנה מהירה שיוצר עוגיות בריבועים! עוגיות שוקולד צ&#039;יפס מקמח כוסמין הן העוגיות הכי רכות ונימוחות שיש!",
+      "imageUrl": "https://barieli.com/wp-content/uploads/rsz_img_8979-1.jpg",
+      "recipeUrl": "https://barieli.com/%d7%a0%d7%95%d7%a1%d7%a4%d7%99%d7%9d/%d7%a2%d7%95%d7%92%d7%99%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93-%d7%a6%d7%99%d7%a4%d7%a1-%d7%9e%d7%a7%d7%9e%d7%97-%d7%9b%d7%95%d7%a1%d7%9e%d7%99%d7%9f/",
+      "didMake": "yes",
+      "willRecommand": "yes"
+    },
+    {
+      "title": "Nona&#039;s patties with potato and olives",
+      "description": "",
+      "imageUrl": "https://www.yonit-tzukerman.co.il/wp-content/uploads/2019/02/IMG_20190221_062909_566.jpg",
+      "recipeUrl": "https://www.yonit-tzukerman.co.il/%d7%9e%d7%a0%d7%95%d7%aa-%d7%a2%d7%99%d7%a7%d7%a8%d7%99%d7%95%d7%aa/%d7%91%d7%a9%d7%a8/%d7%a1%d7%99%d7%a8-%d7%96%d7%99%d7%aa%d7%99%d7%9d-%d7%aa%d7%a4%d7%95%d7%90-%d7%95%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa/",
+      "didMake": "yes",
+      "willRecommand": "yes"
+    },
+    {
+      "title": "spinach muffins and cheese",
+      "description": "The kids refuse to eat vegetable pie? Try these muffins",
+      "imageUrl": "https://img.mako.co.il/2015/08/16/tered_muffins_i.jpg",
+      "recipeUrl": "https://www.mako.co.il/food-cooking_magazine/cooking-with-children/Recipe-0920c922b553f41006.htm",
+      "didMake": "yes",
+      "willRecommand": "yes"
+    },
+    {
+      "title": "A SCRUMPTIOUS CREPE FILLED WITH VEGETABLES AND PEANUT BUTTER SAUCE",
+      "description": "",
+      "imageUrl": "https://www.lichtenstadt.com/wp-content/uploads/2019/11/crepe_sanfrost_03txt.jpg",
+      "recipeUrl": "https://www.mako.co.il/food-cooking_magazine/cooking-with-children/Recipe-0920c922b553f41006.htm",
+      "didMake": "yes",
+      "willRecommand": "yes"
+    }
+  ]
+}
